@@ -108,6 +108,12 @@ Cairn does not request internet access in this Public Beta.
 
 ---
 
+## Privacy
+
+Read the [Cairn Privacy Policy](docs/privacy/index.html).
+
+---
+
 ## A boundary worth knowing
 
 Cairn's pause belongs to the **Cairn launcher experience**.

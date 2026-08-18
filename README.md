@@ -17,12 +17,13 @@ Android 8.0+ · Free to use · Fully offline
 ---
 
 <p align="center">
-  <img src="assets/home.png" width="220" alt="Cairn Home">
+  <img src="assets/home.jpg" width="220" alt="Cairn Home">
   &nbsp;&nbsp;
-  <img src="assets/pause.png" width="220" alt="Cairn intentional pause">
+  <img src="assets/pause.jpg" width="220" alt="Cairn intentional pause">
   &nbsp;&nbsp;
-  <img src="assets/futurenots.png" width="220" alt="Cairn River Report">
+  <img src="assets/futurenotes.jpg" width="220" alt="Cairn Future Notes">
 </p>
+
 ## What you'll find in Cairn
 
 ### A quieter Home

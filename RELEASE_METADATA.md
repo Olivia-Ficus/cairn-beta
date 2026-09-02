@@ -1,8 +1,12 @@
-# Cairn Public Beta v1 Release Metadata
+# Historical GitHub Release Metadata — Cairn Public Beta v1
+
+This file preserves verification evidence for the APK that was formerly attached to the historical GitHub release `v0.1.0-public-beta.1`.
+
+The APK is no longer distributed through GitHub, and this file is not current installation guidance. To participate in the current Cairn Beta Test, use the [Google Play testing page](https://play.google.com/apps/testing/com.cairn.launcher).
 
 | Field | Value |
 | --- | --- |
-| APK | `Cairn-0.1.0-public-beta-v1.apk` |
+| Historical APK | `Cairn-0.1.0-public-beta-v1.apk` |
 | Package | `com.cairn.launcher` |
 | Version name | `0.1.0` |
 | Version code | `1` |
@@ -13,12 +17,12 @@
 | Target Android API | `35` |
 | Signature verification | `One signer; APK Signature Scheme v2` |
 
-## Offline validation
+## Historical offline validation
 
-The exact APK requests neither `android.permission.INTERNET` nor `android.permission.ACCESS_NETWORK_STATE`. It contains no Google Play Billing, Google Data Transport, Firebase Analytics, Crashlytics, Web3Forms or remote-update implementation.
+The exact APK requested neither `android.permission.INTERNET` nor `android.permission.ACCESS_NETWORK_STATE`. It contained no Google Play Billing, Google Data Transport, Firebase Analytics, Crashlytics, Web3Forms or remote-update implementation.
 
-The APK includes Coil's transitive OkHttp library for local image loading, but Cairn supplies only local Android content URIs to that path. The app has no network permission and no Public Beta URL/network route.
+The APK included Coil's transitive OkHttp library for local image loading, but Cairn supplied only local Android content URIs to that path. The app had no network permission and no Public Beta URL/network route.
 
-## Compatibility evidence
+## Historical compatibility evidence
 
-The exact APK installed and cold-launched successfully on a Pixel 7 Android Emulator running Android API 35 on `arm64-v8a`. The APK packages its small AndroidX/DataStore native components for `arm64-v8a`, `armeabi-v7a`, `x86` and `x86_64`; runtime validation in this phase covered `arm64-v8a`. Manufacturer-specific compatibility has not been exhaustively tested.
+The exact APK installed and cold-launched successfully on a Pixel 7 Android Emulator running Android API 35 on `arm64-v8a`. The APK packaged its small AndroidX/DataStore native components for `arm64-v8a`, `armeabi-v7a`, `x86` and `x86_64`; runtime validation in that release phase covered `arm64-v8a`. Manufacturer-specific compatibility was not exhaustively tested.

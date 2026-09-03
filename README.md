@@ -10,7 +10,7 @@ You can still continue.
 
 Cairn isn't there to stop you. It's there to make the choice visible again.
 
-[**Join the Cairn Beta Test on Google Play →**](https://play.google.com/apps/testing/com.cairn.launcher)
+[**Join the Cairn Beta Test →**](https://groups.google.com/g/cairn-beta-testers)
 
 **This round of beta recruitment closes September 15, 2026.**
 
@@ -28,12 +28,12 @@ Android 8.0+ · Free to use
 
 ## Join the Beta Test
 
-1. Open the [Cairn Beta Test page on Google Play](https://play.google.com/apps/testing/com.cairn.launcher).
-2. Sign in with the Google account you use on your Android device.
-3. Follow the Google Play guidance to join the test and install Cairn.
+1. Join the [Cairn Beta Testers Google Group](https://groups.google.com/g/cairn-beta-testers) with the Google account you use on your Android device.
+2. Open the [Cairn Beta Test page on Google Play](https://play.google.com/apps/testing/com.cairn.launcher) with the same Google account.
+3. Choose **Become a tester** and follow the Google Play guidance to install Cairn.
 4. Open Cairn and follow onboarding when you're ready to try it as your Home app.
 
-Google Play manages tester access, installation and updates for the beta.
+The Google Group gives your account access to the closed test. Google Play manages tester opt-in, installation and updates.
 
 ---
 
@@ -103,7 +103,7 @@ Cairn is designed to place a choice in a familiar path, not to make the choice i
 
 Earlier GitHub release records remain available as historical information. Cairn APKs and other installation packages are no longer distributed through GitHub.
 
-For current Beta Test access, use the [Google Play testing page](https://play.google.com/apps/testing/com.cairn.launcher).
+For current Beta Test access, start by joining the [Cairn Beta Testers Google Group](https://groups.google.com/g/cairn-beta-testers).
 
 ---
 
